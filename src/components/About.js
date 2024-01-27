@@ -14,7 +14,7 @@ import React, { useState } from 'react';
                 </div>
 
                 <div className="rounded-box items-stretch text-[#55A3FF] p-4 absolute bottom-0 right-0">
-                    <button className="w-44 h-8 btn bg-[#55A3FF]">Cool!</button>
+                    <button className="w-44 h-8 btn btn-active bg-[#55A3FF]">Cool!</button>
                     // should probably make this do something fun, maybe a thumbs up emoji pops out or smth
                 </div>
             </div>
